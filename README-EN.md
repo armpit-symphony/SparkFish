@@ -6,9 +6,6 @@
 
 
 
-
-[English](./README-EN.md) | 
-
 </div>
 
 ## Overview
