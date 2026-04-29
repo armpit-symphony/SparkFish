@@ -1,32 +1,26 @@
 <div align="center">
 
-# ⚡ SparkFish
+# ⚡ SparkBuds
 
 *A Simple and Universal Swarm Intelligence Engine, Predicting Anything*
 
-[![License: AGPL-3.0](https://img.shields.io/badge/License-AGPL--3.0-blue.svg)](https://www.gnu.org/licenses/agpl-3.0.en.html)
-[![GitHub Stars](https://img.shields.io/github/stars/armpit-symphony/SparkFish?style=flat-square&color=DAA520)](https://github.com/armpit-symphony/SparkFish/stargazers)
-[![GitHub Watchers](https://img.shields.io/github/watchers/armpit-symphony/SparkFish?style=flat-square)](https://github.com/armpit-symphony/SparkFish/watchers)
-[![GitHub Forks](https://img.shields.io/github/forks/armpit-symphony/SparkFish?style=flat-square)](https://github.com/armpit-symphony/SparkFish/network)
-[![Docker](https://img.shields.io/badge/Docker-Build-2496ED?style=flat-square&logo=docker&logoColor=white)](https://hub.docker.com/)
-[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/armpit-symphony/SparkFish)
 
 [![Discord](https://img.shields.io/badge/Discord-Join-5865F2?style=flat-square&logo=discord&logoColor=white)](http://discord.gg/ePf5aPaHnA)
 
-[English](./README-EN.md) | [中文文档](./README.md)
+[English](./README-EN.md) | 
 
 </div>
 
 ## Overview
 
-**SparkFish** is a next-generation AI prediction engine powered by multi-agent technology. By extracting seed information from the real world (such as breaking news, policy drafts, or financial signals), it automatically constructs a high-fidelity parallel digital world. Within this space, thousands of intelligent agents with independent personalities, long-term memory, and behavioral logic freely interact and undergo social evolution. You can inject variables dynamically from a "God's-eye view" to precisely deduce future trajectories — **rehearse the future in a digital sandbox, and win decisions after countless simulations**.
+**SparkBuds** is a next-generation AI prediction engine powered by multi-agent technology. By extracting seed information from the real world (such as breaking news, policy drafts, or financial signals), it automatically constructs a high-fidelity parallel digital world. Within this space, thousands of intelligent agents with independent personalities, long-term memory, and behavioral logic freely interact and undergo social evolution. You can inject variables dynamically from a "God's-eye view" to precisely deduce future trajectories — **rehearse the future in a digital sandbox, and win decisions after countless simulations**.
 
 > You only need to: Upload seed materials (data analysis reports or interesting novel stories) and describe your prediction requirements in natural language
-> SparkFish will return: A detailed prediction report and a deeply interactive high-fidelity digital world
+> SparkBud will return: A detailed prediction report and a deeply interactive high-fidelity digital world
 
 ### Our Vision
 
-SparkFish is dedicated to creating a swarm intelligence mirror that maps reality. By capturing the collective emergence triggered by individual interactions, we break through the limitations of traditional prediction:
+SparkBud is dedicated to creating a swarm intelligence mirror that maps reality. By capturing the collective emergence triggered by individual interactions, we break through the limitations of traditional prediction:
 
 - **At the Macro Level**: We are a rehearsal laboratory for decision-makers, allowing policies and public relations to be tested at zero risk
 - **At the Micro Level**: We are a creative sandbox for individual users — whether deducing novel endings or exploring imaginative scenarios, everything can be fun, playful, and accessible
@@ -146,12 +140,4 @@ This project is a fork of **MiroFish** by [666ghj](https://github.com/666ghj/Mir
 
 SparkFish's simulation engine is powered by **[OASIS (Open Agent Social Interaction Simulations)](https://github.com/camel-ai/oasis)**, developed by the **CAMEL-AI team**. We sincerely thank them for their open-source contributions.
 
-## Project Statistics
 
-<a href="https://www.star-history.com/#armpit-symphony/SparkFish&type=date&legend=top-left">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=armpit-symphony/SparkFish&type=date&theme=dark&legend=top-left" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=armpit-symphony/SparkFish&type=date&theme=dark&legend=top-left" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=armpit-symphony/SparkFish&type=date&theme=dark&legend=top-left" />
- </picture>
-</a>
